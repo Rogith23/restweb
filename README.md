@@ -1,6 +1,6 @@
 # Ex.07 Restaurant Website
 ## Date:
-26/12/2024
+13/05/2025
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
 
@@ -541,11 +541,6 @@ footer{
 }
 ```
 ## OUTPUT:
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](<Screenshot 2025-05-13 080226.png>) ![alt text](<Screenshot 2025-05-13 080309.png>) ![alt text](<Screenshot 2025-05-13 080321.png>) ![alt text](<Screenshot 2025-05-13 080331.png>) ![alt text](<Screenshot 2025-05-13 080339.png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
